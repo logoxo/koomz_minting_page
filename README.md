@@ -1,6 +1,6 @@
 # Koomz Minting Page
 
-[Preview of the Kooomz Minting Page ](https://logoxo.github.io/koomz_minting_page/)
+[Preview of the Koomz Minting Page ](https://logoxo.github.io/koomz_minting_page/)
 
 Koomz clothing once commissioned me to develop a minting site for their NFT, unfortunately they never launched their NFT. That you also have no use for the page, I'll post it on my Github, maybe someone will have a use for it for the next nft project. 
 
