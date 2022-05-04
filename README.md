@@ -2,7 +2,7 @@
 
 [Preview of the Koomz Minting Page ](https://logoxo.github.io/koomz_minting_page/)
 
-Koomz clothing once commissioned me to develop a minting site for their NFT, unfortunately they never launched their NFT. That you also have no use for the page, I'll post it on my Github, maybe someone will have a use for it for the next nft project. 
+Koomz Clothing once asked me to develop a Minting page for their NFT, unfortunately they never launched their NFT. Since they also have no use for the page anymore, I decided to post the page on Github, maybe someone else has a use for the page.
 
 ![alt text](https://github.com/logoxo/koomz_miniting_page/blob/master/src/assets/img/shop/minting.png?raw=true)
 
