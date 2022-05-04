@@ -1,9 +1,8 @@
-# mintpage
+# Koomz Minting Page
 
-git config --global user.name ""
-git config --global user.email ""
-git branch -m master main
-git remote add origin https://gitlab.com/ ... .git
+[Preview of the Kooomz Minting Page ](https://www.google.com)
+
+![alt text](https://github.com/logoxo/koomz_miniting_page/blob/master/src/assets/img/shop/minting.png?raw=true)
 
 ## Project setup
 ```
